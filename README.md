@@ -30,8 +30,7 @@ Tools I use:
 >
           
  ### - :zap: I’m working as a Software QA Engineer.  I'm doing manual and some automation testing using Python, JavaScript and SQL languages.
-### - :zap: I have a computer science degree.
-### - :zap: I'm constantly working on improving my automation skills and learning something new.     
+ ### - :zap: I'm constantly working on improving my automation skills and learning something new.     
 
 
 <!--![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)-->
