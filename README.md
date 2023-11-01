@@ -6,7 +6,7 @@
 
 
 # Hi there 👋
-## I am a Software QA Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60">but in my free time i also practise and develop some things on React    
+## I am a Software QA Engineer <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60">,but in my free time I also practise and develop some things on React    
 
 Tools I use: 
 
