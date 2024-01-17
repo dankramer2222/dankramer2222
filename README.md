@@ -4,7 +4,7 @@
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <h2>A Few Quick Facts</h2>
 <ul>
-<li> 😌 Finished some courses,here a <a href="https://drive.google.com/file/d/1ZLaE_vsG-bdGf0pZxbhCldgChWrZ3Nn5/view?usp=sharing">list</a> </li>
+<li> 😌 Finished some courses,here a <a href="https://github.com/dankramer2222/certificates">list</a> </li>
 <li> ☕ Right now I am learning and improving my automation skills,and appium framework</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/dankramer2222">Github</a></li> </li>
 <li> 📖 Learning Kotling in my free time</li>
