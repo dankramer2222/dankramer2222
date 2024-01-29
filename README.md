@@ -1,5 +1,5 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
-<p> My name is Daniel and I am QA Engineer(most of the time). Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
+<p> My name is Danila and I am QA Engineer(most of the time). Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
 
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <h2>A Few Quick Facts</h2>
@@ -9,7 +9,7 @@
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/dankramer2222">Github</a></li> </li>
 <li> 📖 Learning Kotling in my free time</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1kNwD_eq1rJLkM2vbOmxOH7dDfim5DwGFrox5B1_KH4c/edit?usp=sharing">resume</a></li> 
-<li>🧣 Random fact about me: I'm lord of the rings and star wars fun (yes I'm still existing)</li>
+<li>🧣 Random fact about me: I'm lord of the rings and star wars fun (yes I'm still exist)</li>
 </ul>
 <h2>Some Tools I Use</h2>
 <p align="center">
@@ -38,7 +38,7 @@
 <p> 
 <ul>
 <li>  <a href="https://github.com/dankramer2222/certificates">certificates from courses</a></li>
-<li>  <a href="https://github.com/dankramer2222/SeleniumAutoTests">Python Test Automation</a></li>
+<li>  <a href="https://github.com/dankramer2222/PythonQaToolsSelenium">Python Test Automation PetProject </a></li>
 <li>  <a href="https://github.com/dankramer2222/qa-portfolio">Qa tools and example of my bug reports/test cases </a>   </li>
 <li> <a href="https://github.com/dankramer2222/BookStore">Bookstore</a>   </li>
 <li>  <a href="https://github.com/dankramer2222/streamingApp">Streaming App</a>  </li>
