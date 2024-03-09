@@ -1,8 +1,7 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
 <p> My name is Danila and I am QA Engineer(most of the time). Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
-
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <h2>A Few Quick Facts</h2>
+<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <ul>
 <li> 😌 Finished some courses,here a <a href="https://github.com/dankramer2222/certificates">list</a> </li>
 <li> ☕ Right now I am learning and improving my automation skills,and appium framework</li>
