@@ -5,7 +5,7 @@
 <ul>
 <li> 😌 Finished some courses,here a <a href="https://github.com/dankramer2222/certificates">list</a> </li>
 <li> ☕ Right now I am learning and improving my automation skills,and appium framework</li>
-<li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/dankramer2222">Github</a></li> </li>
+<li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/dankramer2222?tab=repositories">Github</a></li> </li>
 <li> 📖 Learning Kotling in my free time</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1CWPYjli4Is3cX0uQzzku_DaVbgMlopqS3uEK1LLVr2w/edit?usp=sharing">resume</a></li> 
 <li>🧣 Random fact about me: I'm lord of the rings and star wars fun (yes I'm still exist)</li>
