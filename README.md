@@ -1,14 +1,14 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
-<p> My name is Danila and I am QA Engineer(most of the time). Here I want to share some web and mobile testing portfolio items gained during some of my studies and pet-projects.</p> 
+<p> My name is Danila and I Project Manager intern in Year Up (also I have exprience in QA Field and passion in tech industry). Here I want to share some web & testing portfolio items gained during some of my studies and pet-projects.</p> 
 <h2>A Few Quick Facts</h2>
 <img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
 <ul>
 <li> 😌 Finished some courses,here a <a href="https://github.com/dankramer2222/certificates">list</a> </li>
 <li> ☕ Right now I am learning and improving my automation skills,and appium framework</li>
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/dankramer2222?tab=repositories">Github</a></li> </li>
-<li> 📖 Studing a Project management in Year up Program right now</li>
+<li> 📖 Studing a Project management in Year up Program right now and apply my skills as a Scrum Master </li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1CWPYjli4Is3cX0uQzzku_DaVbgMlopqS3uEK1LLVr2w/edit?usp=sharing">resume</a></li> 
-<li>🧣 Random fact about me: I'm lord of the rings and star wars fun (yes I'm still exist)</li>
+<li>🧣 Random fact about me: I'm lord of the rings and star wars fun and DND Master player</li>
 </ul>
 <h2> 💻 My languages </h2>
 <div style="white-space: nowrap;">
