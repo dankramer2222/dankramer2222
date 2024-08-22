@@ -8,7 +8,8 @@
 <li> 🐈‍⬛ Most of my study cases are available on <a href="https://github.com/dankramer2222?tab=repositories">Github</a></li> </li>
 <li> 📖 Studing a Project management in Year up Program right now and apply my skills as a Scrum Master </li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1CWPYjli4Is3cX0uQzzku_DaVbgMlopqS3uEK1LLVr2w/edit?usp=sharing">resume</a></li> 
-<li>🧣 Random fact about me: I'm lord of the rings and star wars fun and DND Master player</li>
+<li>🧣 
+Random fact about me: I'm a huge fan of "The Lord of the Rings," also deeply immersed in the Warhammer 40000 universe, and an experienced Dungeon Master in Dungeons & Dragons.</li>
 </ul>
 <h2> 💻 My languages </h2>
 <div style="white-space: nowrap;">
