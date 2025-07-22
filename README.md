@@ -1,7 +1,7 @@
 <h2>Hey, let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25"></h2>
 
 <p>
-  My name is Danila — I’m a Project Management intern at Year Up & Impinj. I also have experience in QA and a strong passion for the tech industry. <br>
+  My name is Danila — I’m a Project Management intern at Impinj experience in QA and a strong passion for the tech industry. <br>
   Here, I’m sharing my web and testing portfolio, built through my studies and pet-projects.
 </p>
 
